@@ -3,7 +3,7 @@ Script to randomize your Windows wallpaper
 
 # Building and running
 - For development, just run it. If you don't provide arguments, the program will ask for them
-- For release, I recommend using the provided publish profile by running "dotnet publish -p:PublishProfile=FD --self-contained false"
+- For release, I recommend using the provided publish profile by running `dotnet publish -p:PublishProfile=FD --self-contained false`
 - For daily use, I recommend making a shortcut with your favourite arguments
 
 # Arguments
