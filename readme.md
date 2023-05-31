@@ -10,3 +10,6 @@ Script to randomize your Windows wallpaper
 - `--help` to print help
 - `--directory=<string>` or `--directory="<string>"` to specify the directory where your wallpaper files reside
 - `--sleep=<int>` to specify the time in milliseconds that the program should sleep for, before checking if the wallpaper was updated succesfully
+
+## What does the name mean?
+I dont remember.
